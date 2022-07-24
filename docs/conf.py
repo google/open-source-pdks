@@ -150,8 +150,8 @@ html_theme = "sphinx_symbiflow_theme"
 html_theme_options = {
     'nav_title': 'Google maintained open source PDKs',
 
-    'color_primary': 'orange',
-    'color_accent': 'teal',
+    'color_primary': 'indigo',
+    'color_accent': 'blue',
 
     # Set the repo location to get a badge with stats
     'github_url': 'https://github.com/google/open-source-pdks',
