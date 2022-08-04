@@ -15,6 +15,11 @@ SKY130
 
 https://github.com/google/skywater-pdk
 
+SKY90FD (work in progress)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+https://github.com/google/sky90fd-pdk
+
 GlobalFoundries
 ~~~~~~~~~~~~~~~
 
