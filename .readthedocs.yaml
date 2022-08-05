@@ -15,15 +15,12 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
-name: Open-Source-PDKs-docs
-
-channels:
-- defaults
-
-dependencies:
-- python>=3.8
-- pip:
-  - -r docs/requirements.txt
+version: 2
 
 sphinx:
+  configuration: docs/conf.py
   fail_on_warning: true
+
+python:
+  install:
+  - requirements: docs/requirements.txt
