@@ -141,7 +141,7 @@ pygments_style = None
 #
 html_theme = "sphinx_symbiflow_theme"
 
-#html_logo = "_static/open-source-pdks-logo-top.png"
+html_logo = "_static/open-source-pdks-logo-top.png"
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
