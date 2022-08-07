@@ -31,8 +31,8 @@
 import docutils
 import os
 import re
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import sys
+sys.path.insert(0, os.path.abspath('.'))
 
 
 # -- Project information -----------------------------------------------------
@@ -59,6 +59,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.napoleon',
     'sphinx.ext.todo',
+    'sphinx_pdk_roles'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
